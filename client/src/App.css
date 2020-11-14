@@ -1,0 +1,66 @@
+.app{
+  padding:10px;
+}
+
+.form-input{
+  padding: 10px 0px;
+}
+
+.blog-display{
+ 
+  margin: 5px 0px;
+  border-radius: 4px;
+  padding: 10px;
+}
+
+button{
+  background-color: #007bff;
+  color: #fff;
+  padding: .37rem .75rem;
+  font-size: 1rem;
+  line-height: 1.5;
+  border-radius: .15rem;
+  cursor: pointer;
+margin: 10px;
+  outline: none;
+
+}
+
+form{
+  width: 50%;
+}
+.form-input input, .form-input textarea{
+width: 100%;
+font-size: 1rem;
+line-height: 1.5;
+border-radius: .25rem;
+border: 1px solid lightgray;
+padding: .37rem .75rem;
+margin: 10px;
+
+}
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+ 
+}
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+.content{
+  border: 1px;
+  border-color: lightgray;
+  border-style: solid;
+  border-radius: 11px;
+  padding: 9px;
+}
+
+
+a{
+  margin-right: 15px;
+  padding: 2px;
+  cursor: pointer;
+}
+
